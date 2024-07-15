@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexGuyNichols
 - 👀 I’m interested in ... 🏋🏼 CrossFit & 👨🏼‍💻 Software Engineering
-- 🌱 I’m currently learning ... Cloud Engineering with NorthCoders!
+- 🌱 I’m currently learning ... C# & .NET!
 - 💞️ I’m looking to collaborate on ... Nothing at the moment 🥲
 - 📫 How to reach me ... @alexguynichols on most socials!
 
