@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... 🏋🏼 CrossFit & 👨🏼‍💻 Software Engineering
 - 🌱 I’m currently learning ... C# & .NET!
 - 💞️ I’m looking to collaborate on ... An AI app that creates custom CrossFit workouts for you
-- 📫 How to reach me ... [@alexguynichols](https://www.instagram.com/alexguynichols) on most socials!
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/alexguynichols) on most socials!
 
 ---
 
@@ -41,15 +41,7 @@
 - I'm a CrossFit enthusiast 🏋🏼‍♂️
 - I love learning new programming languages and frameworks 🌐
 - Always looking for new challenges and collaborations 🤝
-
----
-
-## 📫 Get in Touch
-
-- Follow me on [Twitter](https://twitter.com/alexguynichols)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/alexguynichols)
-- Check out my projects on [GitHub](https://github.com/AlexGuyNichols)
-- Email me at alexguynichols@example.com
+- Proud owner of a very stubborn French Bulldog Daxter! (Yes, from Jak & Daxter)
 
 
 <!---
