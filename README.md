@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in ... 🏋🏼 CrossFit & 👨🏼‍💻 Software Engineering
 - 🌱 I’m currently learning ... C# & .NET!
-- 💞️ I’m looking to collaborate on ... An AI app that creates custom CrossFit workouts for you
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/alexguynichols) on most socials!
 
 ---
